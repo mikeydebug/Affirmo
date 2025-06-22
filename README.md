@@ -57,7 +57,11 @@ Affirmo/
 3.	Open index.html in your browser or use Live Server in VS Code
 
 
-📌 Upcoming Features
+---
+
+
+##📌 Upcoming Features
+
 	•	🛒 Cart functionality with JS
 	•	🔐 User authentication
 	•	🧭 Dynamic navigation with filtering
@@ -65,12 +69,14 @@ Affirmo/
 
 
  
-⸻
+---
 
 🙌 Acknowledgements
+
 	•	Inspired by Myntra.com
 	•	Icons by FontAwesome
 	•	Images for educational purposes only.
+---
 
 📜 License
 
